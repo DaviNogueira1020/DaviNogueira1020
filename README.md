@@ -1,6 +1,7 @@
 # Olá, eu sou Davi! 👋
 
-![Avatar](https://picrew.me/image_maker/338224) <!-- Substitua pelo link do seu avatar personalizado -->
+![Avatar](<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/830a429a-be11-44c8-a3fe-74b5b1dc65b4" />
+) <!-- Substitua pelo link do seu avatar personalizado -->
 
 💻 **Estudante de Ciência da Computação** | Desenvolvedor em aprendizado contínuo | Apaixonado por tecnologia, programação e inovação  
 
