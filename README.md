@@ -58,7 +58,8 @@ Crie seu avatar/gif personalizado: [Picrew](https://picrew.me/image_maker/338224
 
 ## 🏆 Conquistas e Diversão
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=seuusuario&theme=radical)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=octocat&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 - Piadas de dev: [Readme Jokes](https://github.com/ABSphreak/readme-jokes)  
 - Meme aleatório: [Random Memer](https://github.com/techytushar/random-memer)  
 - Citações inspiradoras: [Quotes](https://github.com/PiyushSuthar/github-readme-quotes)  
