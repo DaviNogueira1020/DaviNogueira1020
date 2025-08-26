@@ -36,15 +36,6 @@
 ![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)  
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)  
 
-Mais opções: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
-
----
-
-## 🎨 Arte e Gifs
-
-![Minha cobrinha favorita](https://instagram.com/p/CPjUBhXDNEE/?img_index=3)  
-Crie seu avatar/gif personalizado: [Picrew](https://picrew.me/image_maker/338224)  
-
 ---
 
 ## 🔗 Minhas Redes e Ferramentas
@@ -57,8 +48,6 @@ Crie seu avatar/gif personalizado: [Picrew](https://picrew.me/image_maker/338224
 ---
 
 ## 🏆 Conquistas e Diversão
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=octocat&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 - Piadas de dev: [Readme Jokes](https://github.com/ABSphreak/readme-jokes)  
 - Meme aleatório: [Random Memer](https://github.com/techytushar/random-memer)  
