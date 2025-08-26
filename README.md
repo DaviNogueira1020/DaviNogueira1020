@@ -33,25 +33,6 @@
 
 ## 📊 Minhas Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)  
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
-
----
-
-## 🐍 Estatísticas em Python
-
-```python
-# Estatísticas hipotéticas do meu perfil
-repositorios = 25
-contribuicoes = 150
-linguagens = ["Python", "JavaScript", "Java", "C"]
-print(f"Repositorios: {repositorios}")
-print(f"Contribuições: {contribuicoes}")
-print(f"Linguagens mais usadas: {', '.join(linguagens)}")
-```
-
-## 📊 Minhas Estatísticas do GitHub
-
 ![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)  
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)  
 
