@@ -1,4 +1,5 @@
-# Olá, eu sou Davi! 👋
+# Olá, meu nome é Davi! 👋
+# É um prazer te conhecer 😁
 
 <img width="300" height="300" alt="Homem com olhos eletrônicos e código binário" src="https://github.com/user-attachments/assets/01e40a53-dba7-47ac-a06a-b532aeff533c">
  <!-- Substitua pelo link do seu avatar personalizado -->
