@@ -7,7 +7,7 @@
 
 🌎 João Pessoa, PB  
 📧 Contato: [davinogueiradasilvan@gmail.com](mailto:davinogueiradasilvan@gmail.com)  
-🔗 Portfólio: [LinkedIn](https://www.linkedin.com/in/davi-nogueira-01a7492b8) | [Instagram](https://www.instagram.com/d4v1.cct)
+🔗 Portfólio: [LinkedIn](https://www.linkedin.com/in/davi-nogueira-01a7492b8) | [Instagram](https://www.instagram.com/d4v1_308)
 
 ---
 
