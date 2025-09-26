@@ -1,7 +1,7 @@
 # Olá, eu sou Davi! 👋
 
-![Avatar](<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/830a429a-be11-44c8-a3fe-74b5b1dc65b4" />
-) <!-- Substitua pelo link do seu avatar personalizado -->
+<img width="300" height="300" alt="Homem com olhos eletrônicos e código binário" src="https://github.com/user-attachments/assets/01e40a53-dba7-47ac-a06a-b532aeff533c">
+ <!-- Substitua pelo link do seu avatar personalizado -->
 
 💻 **Estudante de Ciência da Computação** | Desenvolvedor em aprendizado contínuo | Apaixonado por tecnologia, programação e inovação  
 
